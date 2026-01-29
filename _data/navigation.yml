@@ -9,8 +9,8 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Preprints"
-    url: "/#preprints"
-
   - title: "Publications"
     url: "/#publications"
+
+  - title: "Preprints"
+    url: "/#preprints"
