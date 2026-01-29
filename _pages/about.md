@@ -94,7 +94,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - *2025.08*: **"ARPO: Encouraging Agents to Explore at Critical Moments"**, NICE Community, [Slides](https://mp.weixin.qq.com/s/mwH3FsNHgsFyGqsX-VMPCQ) -->
 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='preprints'></span>
 # 📝 Preprints
 
 - <span style="font-size: 0.92em;">[**ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**](https://arxiv.org/pdf/2601.06860)</span>\
@@ -117,36 +117,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - <span style="font-size: 0.92em;">[**Inters: Unlocking the power of large language models in search with instruction tuning**](https://arxiv.org/pdf/2401.06532)</span>\
 <span style="font-size: 0.869em;"> Yutao Zhu, Peitian Zhang, Chenghao Zhang, **Yifei Chen**, Binyu Xie, Zheng Liu, Ji-Rong Wen, Zhicheng Dou.</span>
 
-<!-- \* for corresponding author, <sup>\#</sup> for equal contribution.
-
-
-
-- <span style="font-size: 0.92em;">[**Seed1.8 Model Card: Towards Generalized Real-World Agency**](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/research/Seed-1.8-Modelcard.pdf)</span> <img src="/images/bytedance.png" style="width: 1em;">\
-<span style="font-size: 0.869em;"> Bytedance Seed Team (core contributors including **Guanting Dong**).</span>
-
-- <span style="font-size: 0.92em;">[**Qwen2.5 Technical Report**](https://arxiv.org/pdf/2412.15115)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
-<span style="font-size: 0.869em;"> Qwen Team (129 authors including **Guanting Dong**).</span>\
-<a href="https://github.com/QwenLM/Qwen2.5"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QwenLM/Qwen2.5?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3510016946558774011'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AZuybSZzF8UAC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
-- <span style="font-size: 0.92em;">[**Qwen2 Technical Report**](https://arxiv.org/pdf/2407.10671)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
-<span style="font-size: 0.869em;"> Qwen Team (64 authors including **Guanting Dong**).</span>\
-<a href="https://github.com/QwenLM/Qwen2"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/QwenLM/Qwen2?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6672924329882884012'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3ANMxIlDl6LWMC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
-- <span style="font-size: 0.92em;">[**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://arxiv.org/pdf/2308.01825.pdf)</span> <img src="/images/qwen_logo.webp" style="width: 1em;">\
-<span style="font-size: 0.869em;"> Zheng Yuan, Hongyi Yuan, Chengpeng Li, **Guanting Dong**, Chuanqi Tan, Chang Zhou.</span>\
-<a href="https://github.com/OFA-Sys/gsm8k-ScRel"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/OFA-Sys/gsm8k-ScRel?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498281829120693895'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AhkOj_22Ku90C%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
-- <span style="font-size: 0.92em;">[**InstructERC: Reforming Emotion Recognition in Conversation with a Retrieval Multi-task LLMs Framework**](https://arxiv.org/pdf/2309.11911.pdf)</span>\
-<span style="font-size: 0.869em;"> Shanglin Lei, **Guanting Dong**<sup>*</sup>, Xiaoping Wang, Keheng Wang, Sirui Wang.</span>\
-<a href="https://github.com/LIN-SHANG/InstructERC"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/LIN-SHANG/InstructERC?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> <a href='https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3337108481848758803'><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdongguanting%2Fdongguanting.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%27amozZDkAAAAJ%3AufrVoPGSRksC%27%5D.num_citations&label=Citations&color=white&logo=Google%20Scholar&style=flat-square&labelColor=white" style="border: 1px solid #ccc; border-radius: 4px;"></a>
-
-
-
-- <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
-<span style="font-size: 0.869em;"> **Guanting Dong**, Yifei Chen, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
-<a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> -->
-
-
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 
