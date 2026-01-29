@@ -95,7 +95,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 
 <span class='anchor' id='publications'></span>
-# 📝 Selected Preprints
+# 📝 Preprints
 
 - <span style="font-size: 0.92em;">[**ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**](https://arxiv.org/pdf/2601.06860)</span>\
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>
@@ -147,7 +147,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> -->
 
 
-# 📝 Selected Publications
+# 📝 Publications
 
 
 - <span style="font-size: 0.92em;">[**Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning**](https://arxiv.org/pdf/2509.23285)</span>\
