@@ -11,14 +11,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a 2nd-year Ph.D. student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be co-advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/) and [Prof. Jirong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN). I earned my M.Eng (2024) and B.Eng (2021) degrees in Information and Communication Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by [Prof. Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/).
+I am currently a 2nd year PhD student at the [Gaoling School of Artificial Intelligence](https://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), fortunate to be advised by [Prof. Zhicheng Dou](http://playbigdata.ruc.edu.cn/dou/). I earned my B.Eng (2024) degrees in Intelligent Science and Technology from [Nankai University (NKU)](https://www.nankai.edu.cn/).
 
-I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M.
+<!-- I'm currently a Top Seed research intern focusing on general agent research at [Bytedance Seed](https://seed.bytedance.com/zh/). Previously, I held research intern positions at the [Alibaba Qwen Team](https://github.com/QwenLM), [Kuaishou Klear Team](https://github.com/Kwai-Klear), and Meituan NLP Center. I have published **40+ papers** in top-tier AI conferences and journals (**10+ first-author papers**), including NeurIPS, ICLR, ACL, WWW, EMNLP, NAACL, AAAI, and IP&M. -->
 
 ### Research Interests：
 - **Agentic Reinforcement Learning** — Training general agents via Fundamental RL-based optimization
 - **Deep Search Agents** — Enhancing long-horizon reasoning with web-scale information Seeking
-- **Alignment for Large Language Models** — Improving Multi-diminutional alignment for LLMs
+- **Scientific Research Agent** — Enhancing agents' scientific discovery ability
+- **Tool-Integrated Reasoning Agent** — Optimizing agents' tool-use behaviors while reasoning
 
 
 My long-term goal is to develop **automated, scalable and safe ways that foster exceptional intelligence toward achieving AGI.**

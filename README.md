@@ -3,5 +3,6 @@
 - Research interests:
   - Agentic Reinforcement Learning
   - Deep Search Agent
+  - Scientific Research Agent
   - Tool-Integrated Reasoning Agent
 
