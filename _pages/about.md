@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: ""
 excerpt: ""
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 <span class='anchor' id='about-me'></span>
 # About Me
@@ -18,7 +18,6 @@ I am currently a 2nd year PhD student at the [Gaoling School of Artificial Intel
 ### Research Interests：
 - **Agentic Reinforcement Learning** — Training general agents via Fundamental RL-based optimization
 - **Deep Search Agents** — Enhancing long-horizon reasoning with web-scale information Seeking
-- **Scientific Research Agent** — Enhancing agents' scientific discovery ability
 - **Tool-Integrated Reasoning Agent** — Optimizing agents' tool-use behaviors while reasoning
 
 
@@ -26,6 +25,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: We are happy to announce that [ET-Agent](https://arxiv.org/pdf/2509.23285) is accepted by **ACL 2026**!
 - *2026.01*: We are happy to announce that [Tool-Light](https://arxiv.org/pdf/2509.23285) is accepted by **ICLR 2026**!
 - *2026.01*: Released [ET-Agent](https://arxiv.org/pdf/2509.23285), a two-aspect training framework for calibrating TIR agents' behaviors. Check out our [project](https://github.com/asilverlight/ET-Agent).
 - *2025.09*: Released [Tool-Light](https://arxiv.org/pdf/2509.23285), a multi-stage training framework for effective tool-integrated reasoning agents. Check out our [project](https://github.com/RUC-NLPIR/Tool-Light).
@@ -120,10 +120,18 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
+- <span style="font-size: 0.92em;">[**ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**](https://arxiv.org/pdf/2601.06860)</span>\
+<span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**ACL 2026**</span>
 
 - <span style="font-size: 0.92em;">[**Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning**](https://arxiv.org/pdf/2509.23285)</span>\
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ICLR 2026**</span>
+
+- <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/abs/2505.16410)</span>\
+<span style="font-size: 0.869em;"> Guanting Dong, **Yifei Chen**, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026**</span>\
+<a href="https://github.com/dongguanting/Tool-Star"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dongguanting/Tool-Star?style=flat-square&logo=github&logoColor=black&labelColor=white&color=white&label=Stars&cacheSeconds=10" style="border: 1px solid #ccc; border-radius: 4px;"></a> 
 
 - <span style="font-size: 0.92em;">[**Agentic Reinforced Policy Optimization**](https://arxiv.org/pdf/2507.19849)</span>\
 <span style="font-size: 0.869em;"> Guanting Dong, Hangyu Mao, Kai Ma, Licheng Bao, **Yifei Chen**, Zhongyuan Wang, Zhongxia Chen, Jiazhen Du, Huiyang Wang, Fuzheng Zhang, Guorui Zhou, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou.</span>\
