@@ -26,6 +26,7 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.04*: We are happy to announce that [ET-Agent](https://arxiv.org/pdf/2509.23285) is accepted by **ACL 2026**!
+- *2026.03*: We are happy to announce that [Tool-Star](https://arxiv.org/pdf/2505.16410) is accepted by **SIGIR 2026**!
 - *2026.01*: We are happy to announce that [Tool-Light](https://arxiv.org/pdf/2509.23285) is accepted by **ICLR 2026**!
 - *2026.01*: Released [ET-Agent](https://arxiv.org/pdf/2509.23285), a two-aspect training framework for calibrating TIR agents' behaviors. Check out our [project](https://github.com/asilverlight/ET-Agent).
 - *2025.09*: Released [Tool-Light](https://arxiv.org/pdf/2509.23285), a multi-stage training framework for effective tool-integrated reasoning agents. Check out our [project](https://github.com/RUC-NLPIR/Tool-Light).
@@ -123,6 +124,10 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 - <span style="font-size: 0.92em;">[**ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**](https://arxiv.org/pdf/2601.06860)</span>\
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ACL 2026**</span>
+
+- <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/pdf/2505.16410)</span>\
+<span style="font-size: 0.869em;"> Guanting Dong, **Yifei Chen**, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
+<span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026**</span>
 
 - <span style="font-size: 0.92em;">[**Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning**](https://arxiv.org/pdf/2509.23285)</span>\
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
