@@ -125,10 +125,6 @@ My long-term goal is to develop **automated, scalable and safe ways that foster 
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ACL 2026**</span>
 
-- <span style="font-size: 0.92em;">[**Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning**](https://arxiv.org/pdf/2505.16410)</span>\
-<span style="font-size: 0.869em;"> Guanting Dong, **Yifei Chen**, Xiaoxi Li, Jiajie Jin, Hongjin Qian, Yutao Zhu, Hangyu Mao, Guorui Zhou, Zhicheng Dou, Ji-Rong Wen.</span>\
-<span style="font-size: 0.87em; color: #c00000;">**SIGIR 2026**</span>
-
 - <span style="font-size: 0.92em;">[**Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning**](https://arxiv.org/pdf/2509.23285)</span>\
 <span style="font-size: 0.869em;"> **Yifei Chen**, Guanting Dong, Zhicheng Dou.</span>\
 <span style="font-size: 0.87em; color: #c00000;">**ICLR 2026**</span>
