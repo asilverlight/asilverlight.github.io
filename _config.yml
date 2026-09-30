@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yifei Chen"
-description              : "Agentic RL; Deep Search Agent; Scientific Research Agent; Tool-Integrated Reasoning Agent"
+description              : "Agentic RL; Deep Search Agent; Scientific Research Agent; General Tool-use Agent; Agents for Productivity Tasks"
 repository               : "asilverlight.github.io"
 google_scholar_stats_use_cdn : true
 
